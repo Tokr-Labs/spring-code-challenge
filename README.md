@@ -2,7 +2,7 @@
 
 Welcome to Rhove's backend code challenge!
 
-You have one week to complete this challenge and it should take you no longer than **4 hours**. We want to be respectful of your time, so at the four-hour mark, submit your challenge and go celebrate a job well done. If there's work you would have completed if you'd had more time, feel free to document that and submit it along with your code.
+You have one week to complete this challenge and it will likely take 1.5-3 hours. We want to be respectful of your time, so at the 3-hour mark, submit your challenge and go celebrate a job well done. If there's work you would have completed if you'd had more time, feel free to document that and submit it along with your code.
 
 Let us know if you have any questions, and good luck!
 
